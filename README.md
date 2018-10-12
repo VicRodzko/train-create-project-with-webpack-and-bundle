@@ -3,4 +3,5 @@
 Create project with webpack and bundle.
 
 1. npm install
-2. /dist/index.html
+2. webpack-dev-server     // for run webpack server
+3. /dist/index.html
